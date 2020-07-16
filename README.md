@@ -9,4 +9,3 @@ Technical Contributions:
 3) IMU data relayed from Remote board (ESP32) to another ESP32 board mounted on the car via a peer-to-peer master slaveconnection established using ESP-NOW through WiFi.
 4) The remote is established as the master(sender) while the RC car is established as a slave (reciever). The code features functions from esp_now.h library that allows the boards to connect to form a peer-to-peer connection over the wifi and send and recieve data. 
 <br />
-[![HitCount](http://hits.dwyl.com/ApurvShah007/Tilt-Bot-RC-Car.svg)](http://hits.dwyl.com/ApurvShah007/Tilt-Bot-RC-Car)
